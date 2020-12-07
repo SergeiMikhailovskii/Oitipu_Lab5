@@ -1,0 +1,250 @@
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\BouncyCastle.Crypto.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Google.Protobuf.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\MySql.Data.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Renci.SshNet.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\MySql.Data.xml
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe.config
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\netstandard.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.AppContext.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Collections.Concurrent.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Collections.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Collections.NonGeneric.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Collections.Specialized.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Console.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Data.Common.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Debug.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Process.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Tools.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Drawing.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Dynamic.Runtime.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Globalization.Calendars.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Globalization.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Globalization.Extensions.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.Compression.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.Pipes.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Linq.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Linq.Expressions.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Linq.Parallel.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Linq.Queryable.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.Http.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.NameResolution.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.NetworkInformation.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.Ping.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.Requests.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.Security.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.Sockets.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Net.WebSockets.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.ObjectModel.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Reflection.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Reflection.Extensions.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Reflection.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Resources.Reader.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Resources.ResourceManager.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Resources.Writer.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Extensions.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Handles.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.InteropServices.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Numerics.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.Claims.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.Principal.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Security.SecureString.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Text.Encoding.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Text.RegularExpressions.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Overlapped.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Thread.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.ThreadPool.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Timer.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.ValueTuple.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XDocument.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XmlDocument.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XPath.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\MySqlConnector.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Buffers.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Memory.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Numerics.Vectors.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\MySqlConnector.xml
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Buffers.xml
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Memory.xml
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Numerics.Vectors.xml
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Лабы\7 сем\рис\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\netstandard.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.AppContext.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Collections.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Collections.Specialized.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Console.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Data.Common.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Globalization.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.Compression.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.Pipes.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Linq.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Linq.Expressions.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Linq.Parallel.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Linq.Queryable.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.Http.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.NameResolution.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.Ping.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.Requests.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.Security.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.Sockets.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Net.WebSockets.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.ObjectModel.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Reflection.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Resources.Reader.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Resources.Writer.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Handles.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.Claims.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.Principal.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Security.SecureString.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Text.Encoding.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Thread.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Timer.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XDocument.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XPath.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\MySqlConnector.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\Renci.SshNet.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\MySqlConnector.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe.config
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\ASUS\Desktop\Lab4\Lab4\Lab4\obj\Debug\Lab4.pdb
